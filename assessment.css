@@ -1,0 +1,19 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    padding: 5px 20px; 
+    background-color:#337ab7;
+    color: #ffffff;
+    border: none;
+}
+input {
+    height: 24px
+}
+tweet-area {
+    margin-top: 10px;
+}
